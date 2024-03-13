@@ -1,1 +1,0 @@
-# TSE - Doctors on Hand
