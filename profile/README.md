@@ -19,7 +19,7 @@ We highly recommend [IntelliJ IDEA](https://www.jetbrains.com/idea/) as the IDE 
 - Clone the Repository [TSE Server](https://github.com/TSE-Doctors-on-Hand/tse-server):
 
 ```bash
-git clone https://github.com/TSE-Doctors-on-Hand/tse-server.git
+git clone https://github.com/TSE-Doctors-on-Hand/tse-server
 ```
 
 - Build the Project using Gradle Buildtools:
@@ -46,7 +46,7 @@ The project's base `.env` file is designed with the Docker Compose files present
 
 - Clone the Repository [TSE Website](https://github.com/TSE-Doctors-on-Hand/tse-website):
 ```bash
-git clone https://github.com/TSE-Doctors-on-Hand/tse-website.git
+git clone https://github.com/TSE-Doctors-on-Hand/tse-website
 ```
 
 - Install Node Dependencies:
