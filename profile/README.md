@@ -63,9 +63,9 @@ npm run dev
 
 The frontend will then be available at http://localhost:3000
 
-## Initialising Fake Data
+## Initialising Mock Data
 
-In order to initialize fake data for the program, please access the mock endpoint available at:
+In order to initialize mock data for the program, please access the mock endpoint available at:
 
 http://localhost:8080/api/admin/insert
 
